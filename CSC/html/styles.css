@@ -1,3 +1,18 @@
-Selectors a {color: palevioletred;}
+Selectors 
+a {color: rgb(78, 35, 148);}
 h5:hover { background-color: rgb(0, 255, 76);}
 h6:hover { background-color: black;}
+.intro {background-color: peru;}
+p.center {text-align: center;color: rgb(217, 255, 0);}
+p.large { font-size: 200%; }
+#firstnanme {background-color: salmon;}
+
+body {
+  background-color: yellow;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
