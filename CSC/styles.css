@@ -1,6 +1,6 @@
 Selectors 
-a {color: rgb(78, 35, 148);}
-h5:hover { background-color: rgb(0, 255, 76);}
+a {color: chartreuse;}
+h5:hover { background-color:slateblue;}
 h6:hover { background-color: black;}
 .intro {background-color: peru;}
 p.center {text-align: center;color: rgb(217, 255, 0);}
