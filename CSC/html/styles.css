@@ -7,7 +7,26 @@ p.center {text-align: center;color: rgb(217, 255, 0);}
 p.large { font-size: 200%; }
 #firstnanme {background-color: salmon;}
 h4 {text-align: center;}
-
+.wdiv {
+border: 5px blue;
+background-color: chartreuse;
+text-align: center;
+}
+.xdiv{
+border: 5px chartreuse;
+background-color: cyan;
+text-align: center;
+}
+.ydiv{
+  border: 5px orange;
+  background-color: darkorchid;
+  text-align: center;
+  }
+.zdiv{
+border: 5px darkorchid;
+background-color: deeppink;
+text-align: center;
+}
 body {
   background-color: yellow;
 }
