@@ -6,6 +6,7 @@ h6:hover { background-color: black;}
 p.center {text-align: center;color: rgb(217, 255, 0);}
 p.large { font-size: 200%; }
 #firstnanme {background-color: salmon;}
+h4 {text-align: center;}
 
 body {
   background-color: yellow;
