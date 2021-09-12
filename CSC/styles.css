@@ -1,11 +1,17 @@
 Selectors 
-a {color: rgb(185, 107, 185) (95, 0, 107);}
+a {
+  color: purple
+}
 h5:hover { background-color:slateblue;}
 h6:hover { background-color: black;}
 .intro {background-color: peru;}
 p.center {text-align: center;color: rgb(217, 255, 0);}
 p.large { font-size: 200%; }
-#firstnanme {background-color: salmon;}
+
+#firstname {
+  background-color:cornflowerblue
+}
+
 h4 {text-align: center;}
 .wdiv {
 border: 5px blue;
