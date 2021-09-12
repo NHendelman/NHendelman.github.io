@@ -12,6 +12,8 @@ border: 5px blue;
 background-color: chartreuse;
 text-align: center;
 }
+td, th {border: 1px solid
+}
 .xdiv{
 border: 5px chartreuse;
 background-color: cyan;
